@@ -20,7 +20,7 @@ X-Cell predicts genome-scale transcriptional responses to genetic perturbations 
 
 !!! note "Availability"
     Model weights and inference code are coming soon. The API examples below reflect the planned interface.
-    Watch the [GitHub repository](https://github.com/Xaira-Therapeutics/x-cell) for release updates.
+    Watch the [GitHub repository](https://github.com/Xaira-Therapeutics/X-Cell) for release updates.
 
 ---
 

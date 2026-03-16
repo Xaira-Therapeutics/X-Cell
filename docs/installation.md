@@ -16,7 +16,7 @@ pip install xcell
 ## Install from Source
 
 ```bash
-git clone https://github.com/Xaira-Therapeutics/x-cell.git
+git clone https://github.com/Xaira-Therapeutics/X-Cell.git
 cd x-cell
 pip install -e .
 ```

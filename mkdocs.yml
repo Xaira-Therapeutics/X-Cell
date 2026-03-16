@@ -1,8 +1,8 @@
 site_name: X-Cell
 site_description: A diffusion language model for genome-scale perturbation prediction across diverse cellular contexts
-site_url: https://xaira-therapeutics.github.io/x-cell
-repo_url: https://github.com/Xaira-Therapeutics/x-cell
-repo_name: Xaira-Therapeutics/x-cell
+site_url: https://xaira-therapeutics.github.io/X-Cell
+repo_url: https://github.com/Xaira-Therapeutics/X-Cell
+repo_name: Xaira-Therapeutics/X-Cell
 edit_uri: edit/main/docs/
 
 theme:
@@ -66,7 +66,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Xaira-Therapeutics/x-cell
+      link: https://github.com/Xaira-Therapeutics/X-Cell
       name: X-Cell on GitHub
 
 copyright: Copyright &copy; 2026 Xaira Therapeutics. Licensed under CC BY-NC-SA 4.0.

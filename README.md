@@ -10,7 +10,7 @@
   <a href="https://huggingface.co/Xaira-Therapeutics/X-Cell"><img alt="Model" src="https://img.shields.io/badge/%F0%9F%A4%97-Model-yellow"></a>
   <a href="https://huggingface.co/datasets/Xaira-Therapeutics/X-Atlas-Pisces"><img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97-Dataset-blue"></a>
   <a href="#"><img alt="Paper" src="https://img.shields.io/badge/arXiv-preprint-b31b1b.svg"></a>
-  <a href="https://xaira-therapeutics.github.io/x-cell"><img alt="Docs" src="https://img.shields.io/badge/docs-latest-teal.svg"></a>
+  <a href="https://xaira-therapeutics.github.io/X-Cell"><img alt="Docs" src="https://img.shields.io/badge/docs-latest-teal.svg"></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@ predictions = model.predict(
 )
 ```
 
-See the [documentation](https://xaira-therapeutics.github.io/x-cell) for full examples.
+See the [documentation](https://xaira-therapeutics.github.io/X-Cell) for full examples.
 
 ## License
 

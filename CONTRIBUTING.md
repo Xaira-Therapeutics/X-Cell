@@ -5,7 +5,7 @@ Thank you for your interest in contributing to X-Cell.
 ## Development Setup
 
 ```bash
-git clone https://github.com/Xaira-Therapeutics/x-cell.git
+git clone https://github.com/Xaira-Therapeutics/X-Cell.git
 cd x-cell
 python -m venv .venv
 source .venv/bin/activate

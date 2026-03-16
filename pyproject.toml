@@ -62,10 +62,10 @@ train = [
 ]
 
 [project.urls]
-Homepage = "https://xaira-therapeutics.github.io/x-cell"
-Documentation = "https://xaira-therapeutics.github.io/x-cell"
-Repository = "https://github.com/Xaira-Therapeutics/x-cell"
-Issues = "https://github.com/Xaira-Therapeutics/x-cell/issues"
+Homepage = "https://xaira-therapeutics.github.io/X-Cell"
+Documentation = "https://xaira-therapeutics.github.io/X-Cell"
+Repository = "https://github.com/Xaira-Therapeutics/X-Cell"
+Issues = "https://github.com/Xaira-Therapeutics/X-Cell/issues"
 "HuggingFace" = "https://huggingface.co/Xaira-Therapeutics/X-Cell"
 
 [tool.setuptools.packages.find]

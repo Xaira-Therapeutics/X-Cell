@@ -21,7 +21,7 @@ pipeline_tag: other
 
 > **Status: Model weights and inference code coming soon.**
 > The Python API, model weights, and tutorials are under active development.
-> Watch the [GitHub repository](https://github.com/Xaira-Therapeutics/x-cell) for release updates.
+> Watch the [GitHub repository](https://github.com/Xaira-Therapeutics/X-Cell) for release updates.
 
 <p align="center">
   <img src="x-cell-overview.png" alt="X-Cell Architecture" width="100%">
@@ -81,7 +81,7 @@ model = XCell.from_pretrained("Xaira-Therapeutics/X-Cell", variant="mini")
 predictions = model.predict("control_cells.h5ad", perturbation="BRCA1")
 ```
 
-Full documentation: [Xaira-Therapeutics.github.io/x-cell](https://xaira-therapeutics.github.io/x-cell)
+Full documentation: [xaira-therapeutics.github.io/X-Cell](https://xaira-therapeutics.github.io/X-Cell)
 
 ## Citation
 
