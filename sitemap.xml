@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://xaira-therapeutics.github.io/X-Cell/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://xaira-therapeutics.github.io/X-Cell/api/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://xaira-therapeutics.github.io/X-Cell/data/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://xaira-therapeutics.github.io/X-Cell/installation/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://xaira-therapeutics.github.io/X-Cell/model/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+    <url>
+         <loc>https://xaira-therapeutics.github.io/X-Cell/quickstart/</loc>
+         <lastmod>2026-03-16</lastmod>
+    </url>
+</urlset>
