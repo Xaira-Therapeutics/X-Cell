@@ -81,7 +81,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial-S
 @article{xcell2026,
   title   = {X-Cell: Scaling Causal Perturbation Prediction Across Diverse
              Cellular Contexts via Diffusion Language Models},
-  author  = {Xaira Therapeutics},
+  author  = {{Xaira Therapeutics}},
   year    = {2026},
 }
 ```
