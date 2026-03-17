@@ -120,6 +120,7 @@ If you use X-Cell or X-Atlas/Pisces in your research, please cite:
 @article{xcell2026,
   title   = {X-Cell: Scaling Causal Perturbation Prediction Across Diverse
              Cellular Contexts via Diffusion Language Models},
+  author  = {{Xaira Therapeutics}},
   year    = {2026},
 }
 ```
